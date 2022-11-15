@@ -15,7 +15,6 @@ public class Mileage
         gallons = s.nextDouble ();
         mpg = miles / gallons;
         
-
         //output
         System.out.println("Miles" + "Per" + "Gallon:" + mpg);
     }
